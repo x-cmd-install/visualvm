@@ -1,21 +1,23 @@
 about:
-  description: VisualVM is an All-in-One Java Troubleshooting Tool
+  description:
+  |
+    VisualVM is an All-in-One Java Troubleshooting Tool
   license: NOASSERTION
   homepage: https://visualvm.github.io/
   head: 7f73546
   archived: false
   latestVersion: 2.2.1
-  collectedAt: 2026-09-03T05:28:24Z
+  collectedAt: 2026-09-03T22:34:20Z
 timeline:
   created: 2016-09-12
   lastCommit: 2026-08-07
   lastRelease: 2026-02-15
 popularity:
-  star: 3261
+  star: 3262
   watcher: 89
   fork: 335
   release: 27
-  contributor: 1523
+  contributor: 1524
   pullRequest: 26
   issue: 635
 language:
@@ -30,7 +32,7 @@ language:
   Makefile: 9307
   Lex: 3489
   DTrace: 1846
-totalLine: 18778555
+totalBytes: 18778555
 recent:
   last30d:
     since: 2026-08-04

@@ -2,15 +2,15 @@ about:
   description: "VisualVM is an All-in-One Java Troubleshooting Tool"
   license: NOASSERTION
   homepage: https://visualvm.github.io/
-  head: 2e4ccc2
+  head: 6a0db70
   archived: false
   latestVersion: "2.2.2"
   latestRelease: "2.2.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:35:51Z
+  collectedAt: 2026-09-09T19:54:48Z
 timeline:
   created: 2016-09-12
-  lastCommit: 2026-08-31
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 
@@ -19,9 +19,9 @@ popularity:
   watcher: 89
   fork: 334
   release: 28
-  contributor: 1525
+  contributor: 1526
   pullRequest: 27
-  issue: 636
+  issue: 637
 language:
   Java: 18130544
   TypeScript: 182747
@@ -42,58 +42,58 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 1
-    commit: 1
+    openIssue: 2
+    commit: 3
   last60d:
     since: 2026-07-11
     release: 1
     mergedPR: 0
     openPR: 0
     closedIssue: 2
-    openIssue: 2
-    commit: 2
+    openIssue: 3
+    commit: 4
   last90d:
     since: 2026-06-11
     release: 1
     mergedPR: 0
     openPR: 0
     closedIssue: 3
-    openIssue: 2
-    commit: 6
+    openIssue: 3
+    commit: 8
   last180d:
     since: 2026-03-13
     release: 1
     mergedPR: 0
     openPR: 0
     closedIssue: 8
-    openIssue: 2
-    commit: 15
+    openIssue: 3
+    commit: 17
   last360d:
     since: 2025-09-14
     release: 2
     mergedPR: 0
     openPR: 2
     closedIssue: 11
-    openIssue: 5
-    commit: 25
+    openIssue: 6
+    commit: 27
   last720d:
     since: 2024-09-19
     release: 3
     mergedPR: 0
     openPR: 2
     closedIssue: 46
-    openIssue: 10
-    commit: 156
+    openIssue: 11
+    commit: 158
 total:
   release: 28
   mergedPR: 1
   openPR: 10
   closedIssue: 547
-  openIssue: 89
-  commit: 104219
+  openIssue: 90
+  commit: 104221
 ---
 path: /home/runner/.x-repo/github.com/oracle/visualvm
-collectedAt: 2026-09-09T05:36:16Z
+collectedAt: 2026-09-09T19:55:20Z
 loc:
   Java:
     code: 300822

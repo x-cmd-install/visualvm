@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25582000,
       "digest": "sha256:19eee75f29ff8bd387623efd350428f721a3f82e00091179598d5b34cc7412b4",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-08T06:37:40Z",
       "updated_at": "2026-09-08T06:37:47Z",
       "browser_download_url": "https://github.com/oracle/visualvm/releases/download/2.2.2/nb220_platform_20260621.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 35914,
       "digest": "sha256:a998be87bed4f1197d9b47c7be00b294beb369d5cb376977d10ed4c63b3398ab",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-09-08T06:52:51Z",
       "updated_at": "2026-09-08T06:52:53Z",
       "browser_download_url": "https://github.com/oracle/visualvm/releases/download/2.2.2/org-graalvm-visualvm-jfr-streaming.nbm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 25167581,
       "digest": "sha256:2ae9fe572b76320789b8f1a32674477b095659ba120e99e3386225cfa71991d0",
-      "download_count": 2773,
+      "download_count": 2971,
       "created_at": "2026-09-08T06:37:56Z",
       "updated_at": "2026-09-08T06:38:03Z",
       "browser_download_url": "https://github.com/oracle/visualvm/releases/download/2.2.2/VisualVM_222.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23248353,
       "digest": "sha256:5c234f3b241b9d6c33ed4223f86fbf53604da19253884d6eaec28f8b50d1e0b1",
-      "download_count": 983,
+      "download_count": 1026,
       "created_at": "2026-09-08T06:37:28Z",
       "updated_at": "2026-09-08T06:37:35Z",
       "browser_download_url": "https://github.com/oracle/visualvm/releases/download/2.2.2/visualvm_222.zip"

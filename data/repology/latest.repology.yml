@@ -1,0 +1,768 @@
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: "2.2"
+  origversion: 2.2-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: arch
+  subrepo: extra
+  srcname: visualvm
+  binname: visualvm
+  visiblename: visualvm
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
+  summary: Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
+  licenses:
+    - custom:GPL
+- repo: chocolatey
+  binname: VisualVM
+  visiblename: visualvm (Install)
+  version: 2.1.6
+  origversion: null
+  status: outdated
+  summary: |-
+    VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
+    Designed for both development and production time use.
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.0.6
+  origversion: 2.0.6+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.5
+  origversion: 2.1.5-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: 2.1.10-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: "2.2"
+  origversion: 2.2-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: "2.2"
+  origversion: 2.2-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 1.4.2
+  origversion: 1.4.2-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+- repo: deepin_25
+  subrepo: community
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: 2.1.10-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - java
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.0.6
+  origversion: 2.0.6+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: freebsd
+  srcname: java/visualvm
+  binname: visualvm
+  visiblename: java/visualvm
+  version: 2.2.1
+  origversion: null
+  status: outdated
+  summary: GUI tool combining CLI JDK tools and profiling capabilities
+  maintainers:
+    - bofh@freebsd.org
+  categories:
+    - java
+- repo: gentoo
+  srcname: dev-util/visualvm
+  visiblename: dev-util/visualvm
+  version: "2.2"
+  origversion: 2.2-r2
+  status: outdated
+  summary: Integrates commandline JDK tools and profiling capabilities
+  maintainers:
+    - java@gentoo.org
+  licenses:
+    - GPL-2-with-linking-exception
+  categories:
+    - dev-util
+- repo: homebrew_casks
+  srcname: visualvm
+  visiblename: VisualVM
+  version: 2.2.2
+  origversion: null
+  status: newest
+  summary: All-in-One Java Troubleshooting Tool
+- repo: kali_rolling
+  subrepo: main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: "2.2"
+  origversion: 2.2-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: liguros_stable
+  srcname: dev-util/visualvm
+  visiblename: dev-util/visualvm
+  version: "2.2"
+  origversion: null
+  status: outdated
+  summary: Integrates commandline JDK tools and profiling capabilities
+  maintainers:
+    - java@gentoo.org
+  licenses:
+    - GPL-2-with-linking-exception
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/visualvm
+  visiblename: dev-util/visualvm
+  version: "2.2"
+  origversion: 2.2-r2
+  status: outdated
+  summary: Integrates commandline JDK tools and profiling capabilities
+  maintainers:
+    - java@gentoo.org
+  licenses:
+    - GPL-2-with-linking-exception
+  categories:
+    - dev-util
+- repo: macports
+  srcname: java/VisualVM
+  binname: VisualVM
+  visiblename: VisualVM
+  version: 2.1.7
+  origversion: null
+  status: outdated
+  summary: All-in-One Java Troubleshooting Tool
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - GPL-2
+  categories:
+    - java
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: visualvm
+  binname: visualvm
+  visiblename: visualvm
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
+  summary: Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
+  licenses:
+    - custom:GPL
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: visualvm
+  binname: visualvm
+  visiblename: visualvm
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
+  summary: Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
+  licenses:
+    - custom:GPL
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: visualvm
+  binname: visualvm
+  visiblename: visualvm
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
+  summary: Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
+  licenses:
+    - custom:GPL
+- repo: nix_stable_24_05
+  srcname: visualvm
+  visiblename: visualvm
+  version: 2.1.8
+  origversion: null
+  status: outdated
+  summary: A visual interface for viewing information about Java applications
+  maintainers:
+    - m@michalrus.com
+    - moaxcp@gmail.com
+  licenses:
+    - GNU General Public License v2.0 or later (with Classpath exception)
+- repo: nix_stable_24_11
+  srcname: visualvm
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: null
+  status: outdated
+  summary: Visual interface for viewing information about Java applications
+  maintainers:
+    - m@michalrus.com
+    - moaxcp@gmail.com
+  licenses:
+    - GNU General Public License v2.0 or later (with Classpath exception)
+- repo: nix_stable_25_05
+  srcname: visualvm
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: null
+  status: outdated
+  summary: Visual interface for viewing information about Java applications
+  maintainers:
+    - m@michalrus.com
+    - moaxcp@gmail.com
+  licenses:
+    - GNU General Public License v2.0 or later (with Classpath exception)
+- repo: nix_stable_25_11
+  srcname: visualvm
+  visiblename: visualvm
+  version: "2.2"
+  origversion: null
+  status: outdated
+  summary: Visual interface for viewing information about Java applications
+  maintainers:
+    - m@michalrus.com
+    - moaxcp@gmail.com
+  licenses:
+    - GPL-2.0-or-later
+    - Classpath-exception-2.0
+- repo: nix_stable_26_05
+  srcname: visualvm
+  visiblename: visualvm
+  version: 2.2.1
+  origversion: null
+  status: outdated
+  summary: Visual interface for viewing information about Java applications
+  maintainers:
+    - m@michalrus.com
+    - moaxcp@gmail.com
+  licenses:
+    - GPL-2.0-or-later
+    - Classpath-exception-2.0
+- repo: nix_unstable
+  srcname: visualvm
+  visiblename: visualvm
+  version: 2.2.1
+  origversion: null
+  status: outdated
+  summary: Visual interface for viewing information about Java applications
+  maintainers:
+    - m@michalrus.com
+    - moaxcp@gmail.com
+  licenses:
+    - GPL-2.0-or-later
+    - Classpath-exception-2.0
+- repo: openbsd
+  srcname: devel/visualvm
+  binname: visualvm
+  visiblename: devel/visualvm
+  version: 2.2.2
+  origversion: null
+  status: newest
+  summary: visual tool integrating commandline JDK tools and profiling
+  maintainers:
+    - kirill@korins.ky
+  categories:
+    - devel
+- repo: pacstall
+  srcname: visualvm-bin
+  binname: visualvm-bin
+  visiblename: visualvm-bin
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
+  summary: All-in-One Java Troubleshooting Tool
+- repo: parabola
+  subrepo: extra
+  srcname: visualvm
+  binname: visualvm
+  visiblename: visualvm
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
+  summary: Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
+  licenses:
+    - custom:GPL
+- repo: pardus_21
+  subrepo: main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.0.6
+  origversion: 2.0.6+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: 2.1.10-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: 2.1.10-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: pkgsrc_2026_1
+  srcname: devel/visualvm
+  binname: visualvm
+  visiblename: devel/visualvm
+  version: 2.1.10
+  origversion: null
+  status: outdated
+  summary: Monitor, profile, take and browse java thread dumps
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_2
+  srcname: devel/visualvm
+  binname: visualvm
+  visiblename: devel/visualvm
+  version: 2.1.10
+  origversion: null
+  status: outdated
+  summary: Monitor, profile, take and browse java thread dumps
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/visualvm
+  binname: visualvm
+  visiblename: devel/visualvm
+  version: 2.1.10
+  origversion: null
+  status: outdated
+  summary: Monitor, profile, take and browse java thread dumps
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: visualvm
+  binnames:
+    - libvisualvm-jni
+    - visualvm
+  visiblename: visualvm
+  version: 1.4.2
+  origversion: 1.4.2-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - java
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: visualvm
+  binnames:
+    - libvisualvm-jni
+    - visualvm
+  visiblename: visualvm
+  version: 2.0.6
+  origversion: 2.0.6+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - java
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: visualvm
+  binnames:
+    - libvisualvm-jni
+    - visualvm
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: 2.1.10-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - java
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.5
+  origversion: 2.1.5-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: 2.1.10-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: "2.2"
+  origversion: 2.2-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - misc
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 1.4.3
+  origversion: 1.4.3-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.0.6
+  origversion: 2.0.6+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+  visiblename: visualvm
+  version: 1.3.3
+  origversion: 1.3.3-2ubuntu1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+  categories:
+    - universe/devel
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 1.3.8
+  origversion: 1.3.8-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 1.3.9
+  origversion: 1.3.9-1
+  status: legacy
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 1.4.2
+  origversion: 1.4.2-2~18.04.1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 1.4.3
+  origversion: 1.4.3-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.0.6
+  origversion: 2.0.6+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.8
+  origversion: 2.1.8-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 2.1.10
+  origversion: 2.1.10-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: "2.2"
+  origversion: 2.2-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: "2.2"
+  origversion: 2.2-1build1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: "2.2"
+  origversion: 2.2-1build1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: wikidata
+  srcname: Q7936520
+  visiblename: VisualVM
+  version: 2.2.2
+  origversion: null
+  status: newest
+  licenses:
+    - GNU General Public License

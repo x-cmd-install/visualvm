@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,263 · **Forks**: 334 · **Open issues**: 637 · **Contributors**: 1,528
+- **Stars**: 3,264 · **Forks**: 334 · **Open issues**: 637 · **Contributors**: 1,529
 
 ## Totals (cumulative)
 
@@ -97,4 +97,4 @@ Install metadata for visualvm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:28:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:25:50Z._

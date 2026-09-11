@@ -7,7 +7,7 @@ about:
   latestVersion: "2.2.2"
   latestRelease: "2.2.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:27:40Z
+  collectedAt: 2026-09-11T19:25:20Z
 timeline:
   created: 2016-09-12
   lastCommit: 2026-09-09
@@ -15,11 +15,11 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 3263
+  star: 3264
   watcher: 89
   fork: 334
   release: 28
-  contributor: 1528
+  contributor: 1529
   pullRequest: 27
   issue: 637
 language:
@@ -93,7 +93,7 @@ total:
   commit: 104221
 ---
 path: /home/runner/.x-repo/github.com/oracle/visualvm
-collectedAt: 2026-09-11T05:28:01Z
+collectedAt: 2026-09-11T19:25:45Z
 loc:
   Java:
     code: 300822

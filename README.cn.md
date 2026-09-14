@@ -48,7 +48,7 @@ x install visualvm
 
 ## 流行度
 
-- **Star**: 3,264 · **Fork**: 334 · **开放 issue**: 637 · **贡献者**: 1,528
+- **Star**: 3,264 · **Fork**: 334 · **开放 issue**: 637 · **贡献者**: 1,527
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install visualvm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 0 | 0 | 1 | 1 | 3 |
-| last60d | 2026-07-15 | 1 | 0 | 0 | 3 | 2 | 4 |
-| 90d | 2026-06-15 | 1 | 0 | 0 | 4 | 2 | 4 |
-| last180d | 2026-03-17 | 1 | 0 | 0 | 8 | 2 | 14 |
-| 360d | 2025-09-18 | 2 | 0 | 2 | 12 | 5 | 27 |
-| last720d | 2024-09-23 | 3 | 0 | 2 | 47 | 10 | 158 |
+| 30d | 2026-08-15 | 1 | 0 | 0 | 1 | 1 | 3 |
+| last60d | 2026-07-16 | 1 | 0 | 0 | 3 | 1 | 4 |
+| 90d | 2026-06-16 | 1 | 0 | 0 | 4 | 2 | 4 |
+| last180d | 2026-03-18 | 1 | 0 | 0 | 8 | 2 | 14 |
+| 360d | 2025-09-19 | 2 | 0 | 2 | 12 | 5 | 27 |
+| last720d | 2024-09-24 | 3 | 0 | 2 | 47 | 10 | 158 |
 
 ## Release 资产
 
@@ -74,20 +74,6 @@ x install visualvm
 | [VisualVM_222.dmg](https://github.com/oracle/visualvm/releases/download/2.2.2/VisualVM_222.dmg) | 24.0 MiB | `other` |
 | [visualvm_222.zip](https://github.com/oracle/visualvm/releases/download/2.2.2/visualvm_222.zip) | 22.2 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/visualvm) 上共有 **56** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**52** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.2` | ⚠️ outdated |
-| Debian 14 | `2.2` | ⚠️ outdated |
-| Debian 13 | `2.1.10` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.2` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.1.8` | ⚠️ outdated |
-| Arch | `2.2.1` | ⚠️ outdated |
-| Nix unstable | `2.2.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 visualvm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `visualvm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -97,4 +83,4 @@ visualvm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:36:30Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:59:47Z._

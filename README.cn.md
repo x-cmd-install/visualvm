@@ -30,9 +30,9 @@ x install visualvm
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install visualvm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 0 | 0 | 1 | 2 | 3 |
-| last60d | 2026-07-18 | 1 | 0 | 0 | 3 | 2 | 4 |
-| 90d | 2026-06-18 | 1 | 0 | 0 | 3 | 3 | 4 |
-| last180d | 2026-03-20 | 1 | 0 | 0 | 8 | 3 | 14 |
-| 360d | 2025-09-21 | 2 | 0 | 2 | 12 | 6 | 27 |
-| last720d | 2024-09-26 | 3 | 0 | 2 | 47 | 11 | 158 |
+| 30d | 2026-08-18 | 1 | 0 | 0 | 1 | 2 | 3 |
+| last60d | 2026-07-19 | 1 | 0 | 0 | 3 | 2 | 4 |
+| 90d | 2026-06-19 | 1 | 0 | 0 | 3 | 3 | 4 |
+| last180d | 2026-03-21 | 1 | 0 | 0 | 8 | 3 | 14 |
+| 360d | 2025-09-22 | 2 | 0 | 2 | 12 | 6 | 27 |
+| last720d | 2024-09-27 | 3 | 0 | 2 | 47 | 11 | 158 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ visualvm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T05:54:10Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T05:58:11Z._

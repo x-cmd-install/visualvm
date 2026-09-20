@@ -4,7 +4,7 @@
 
 VisualVM is an All-in-One Java Troubleshooting Tool
 
-![visualvm](https://repo.x-cmd.io/visualvm.svg)
+[![x-cmd/install — visualvm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/visualvm.svg)](https://x-cmd.com/install/visualvm)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install visualvm
 
 ## Code insight
 
-Total: **335,789** lines of code across **2791** files in the top 5 languages.
+Total: **335,965** lines of code across **2791** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 300,822 | 98,460 | 76,290 | 2421 |
 | Xml | 15,101 | 3,213 | 380 | 336 |
-| Json | 7,721 | 0 | 3 | 4 |
+| Json | 7,897 | 0 | 3 | 4 |
 | JavaScript | 3,691 | 643 | 252 | 9 |
 | TypeScript | 3,152 | 607 | 556 | 21 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.2.2` (2026-09-08)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-14
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 3,266 · **Forks**: 334 · **Open issues**: 638 · **Contributors**: 1,482
+- **Stars**: 3,265 · **Forks**: 334 · **Open issues**: 638 · **Contributors**: 1,481
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1 · **Open PRs**: 10 · **Closed issues**: 548 · **Open issues**: 90 · **Commits**: 104221
+- **Releases**: 28 · **Merged PRs**: 1 · **Open PRs**: 10 · **Closed issues**: 548 · **Open issues**: 90 · **Commits**: 104222
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 1 | 2 | 3 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 3 | 2 | 4 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 3 | 3 | 4 |
-| last180d | 2026-03-22 | 1 | 0 | 0 | 8 | 3 | 14 |
-| 360d | 2025-09-23 | 2 | 0 | 2 | 12 | 6 | 27 |
-| last720d | 2024-09-28 | 3 | 0 | 2 | 47 | 11 | 158 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 1 | 2 | 4 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 3 | 2 | 5 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 3 | 3 | 5 |
+| last180d | 2026-03-24 | 1 | 0 | 0 | 8 | 3 | 15 |
+| 360d | 2025-09-25 | 2 | 0 | 2 | 12 | 6 | 28 |
+| last720d | 2024-09-30 | 3 | 0 | 2 | 46 | 11 | 159 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for visualvm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:51:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:52:45Z._

@@ -4,7 +4,7 @@
 
 VisualVM is an All-in-One Java Troubleshooting Tool
 
-[![x-cmd/install — visualvm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/visualvm.svg)](https://x-cmd.com/install/visualvm)
+[![x-cmd/install — visualvm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/visualvm.svg)](https://x-cmd.com/install/visualvm)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,266 · **Forks**: 334 · **Open issues**: 638 · **Contributors**: 1,481
+- **Stars**: 3,267 · **Forks**: 334 · **Open issues**: 638 · **Contributors**: 1,481
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 1 | 2 | 4 |
-| last60d | 2026-07-24 | 1 | 0 | 0 | 3 | 2 | 5 |
-| 90d | 2026-06-24 | 1 | 0 | 0 | 3 | 3 | 5 |
-| last180d | 2026-03-26 | 1 | 0 | 0 | 8 | 3 | 15 |
-| 360d | 2025-09-27 | 2 | 0 | 2 | 12 | 6 | 28 |
-| last720d | 2024-10-02 | 3 | 0 | 2 | 45 | 11 | 158 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 1 | 2 | 4 |
+| last60d | 2026-07-25 | 1 | 0 | 0 | 3 | 2 | 5 |
+| 90d | 2026-06-25 | 1 | 0 | 0 | 3 | 3 | 5 |
+| last180d | 2026-03-27 | 1 | 0 | 0 | 8 | 3 | 15 |
+| 360d | 2025-09-28 | 2 | 0 | 2 | 12 | 6 | 28 |
+| last720d | 2024-10-03 | 3 | 0 | 2 | 44 | 11 | 158 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for visualvm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:46:51Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:56:24Z._

@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,269 · **Forks**: 335 · **Open issues**: 640 · **Contributors**: 1,494
+- **Stars**: 3,268 · **Forks**: 335 · **Open issues**: 640 · **Contributors**: 1,491
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 3 | 1 |
-| last60d | 2026-08-10 | 1 | 0 | 0 | 1 | 4 | 4 |
-| 90d | 2026-07-11 | 1 | 0 | 0 | 3 | 5 | 5 |
-| last180d | 2026-04-12 | 1 | 0 | 0 | 5 | 5 | 14 |
-| 360d | 2025-10-14 | 2 | 0 | 2 | 12 | 8 | 28 |
-| last720d | 2024-10-19 | 3 | 0 | 2 | 44 | 11 | 155 |
+| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 3 | 1 |
+| last60d | 2026-08-11 | 1 | 0 | 0 | 1 | 4 | 4 |
+| 90d | 2026-07-12 | 1 | 0 | 0 | 3 | 5 | 5 |
+| last180d | 2026-04-13 | 1 | 0 | 0 | 5 | 5 | 14 |
+| 360d | 2025-10-15 | 2 | 0 | 2 | 12 | 8 | 28 |
+| last720d | 2024-10-20 | 3 | 0 | 2 | 44 | 11 | 155 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for visualvm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:46:49Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:26:08Z._

@@ -26,13 +26,13 @@ x install visualvm
 
 ## OpenSSF Scorecard 评分
 
-总评分: **2 / 10**
+总评分: **2.3 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install visualvm
 
 ## 流行度
 
-- **Star**: 3,268 · **Fork**: 335 · **开放 issue**: 640 · **贡献者**: 1,491
+- **Star**: 3,270 · **Fork**: 335 · **开放 issue**: 640 · **贡献者**: 1,488
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 1 · **开放 PR**: 10 · **已关闭 issue**: 548 · **开放 issue**: 92 · **提交数**: 104222
+- **发布数**: 28 · **已合并 PR**: 1 · **开放 PR**: 11 · **已关闭 issue**: 548 · **开放 issue**: 92 · **提交数**: 104222
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-08-13 | 1 | 0 | 0 | 1 | 4 | 4 |
-| 90d | 2026-07-14 | 1 | 0 | 0 | 3 | 5 | 5 |
-| last180d | 2026-04-15 | 1 | 0 | 0 | 5 | 5 | 11 |
-| 360d | 2025-10-17 | 2 | 0 | 2 | 12 | 8 | 28 |
-| last720d | 2024-10-22 | 3 | 0 | 2 | 44 | 11 | 155 |
+| 30d | 2026-09-13 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last60d | 2026-08-14 | 1 | 0 | 1 | 1 | 4 | 4 |
+| 90d | 2026-07-15 | 1 | 0 | 1 | 3 | 5 | 5 |
+| last180d | 2026-04-16 | 1 | 0 | 1 | 5 | 5 | 11 |
+| 360d | 2025-10-18 | 2 | 0 | 3 | 12 | 8 | 28 |
+| last720d | 2024-10-23 | 3 | 0 | 3 | 44 | 11 | 154 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ visualvm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:48:56Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:40:05Z._

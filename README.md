@@ -14,12 +14,12 @@ x install visualvm
 
 ## Code insight
 
-Total: **335,965** lines of code across **2791** files in the top 5 languages.
+Total: **336,019** lines of code across **2791** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 300,822 | 98,460 | 76,290 | 2421 |
-| Xml | 15,101 | 3,213 | 380 | 336 |
+| Java | 300,783 | 98,449 | 76,284 | 2421 |
+| Xml | 15,173 | 3,213 | 380 | 336 |
 | Json | 7,897 | 0 | 3 | 4 |
 | JavaScript | 3,691 | 643 | 252 | 9 |
 | TypeScript | 3,152 | 607 | 556 | 21 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.2.2` (2026-09-08)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-10-13
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 3,271 · **Forks**: 335 · **Open issues**: 640 · **Contributors**: 1,485
+- **Stars**: 3,273 · **Forks**: 335 · **Open issues**: 640 · **Contributors**: 1,486
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1 · **Open PRs**: 11 · **Closed issues**: 548 · **Open issues**: 92 · **Commits**: 104222
+- **Releases**: 28 · **Merged PRs**: 1 · **Open PRs**: 11 · **Closed issues**: 552 · **Open issues**: 88 · **Commits**: 104227
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-08-16 | 1 | 0 | 1 | 1 | 4 | 4 |
-| 90d | 2026-07-17 | 1 | 0 | 1 | 3 | 4 | 5 |
-| last180d | 2026-04-18 | 1 | 0 | 1 | 4 | 5 | 11 |
-| 360d | 2025-10-20 | 2 | 0 | 3 | 12 | 8 | 28 |
-| last720d | 2024-10-25 | 3 | 0 | 3 | 44 | 11 | 153 |
+| 30d | 2026-09-16 | 0 | 0 | 1 | 2 | 0 | 5 |
+| last60d | 2026-08-17 | 1 | 0 | 1 | 4 | 1 | 9 |
+| 90d | 2026-07-18 | 1 | 0 | 1 | 6 | 1 | 10 |
+| last180d | 2026-04-19 | 1 | 0 | 1 | 7 | 2 | 16 |
+| 360d | 2025-10-21 | 2 | 0 | 3 | 16 | 4 | 33 |
+| last720d | 2024-10-26 | 3 | 0 | 3 | 48 | 7 | 158 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for visualvm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:20:05Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:10:31Z._

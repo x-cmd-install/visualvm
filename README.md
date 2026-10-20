@@ -14,13 +14,13 @@ x install visualvm
 
 ## Code insight
 
-Total: **336,019** lines of code across **2791** files in the top 5 languages.
+Total: **336,041** lines of code across **2791** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 300,783 | 98,449 | 76,284 | 2421 |
 | Xml | 15,173 | 3,213 | 380 | 336 |
-| Json | 7,897 | 0 | 3 | 4 |
+| Json | 7,919 | 0 | 3 | 4 |
 | JavaScript | 3,691 | 643 | 252 | 9 |
 | TypeScript | 3,152 | 607 | 556 | 21 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.2.2` (2026-09-08)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-19
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 3,274 · **Forks**: 335 · **Open issues**: 640 · **Contributors**: 1,483
+- **Stars**: 3,274 · **Forks**: 335 · **Open issues**: 640 · **Contributors**: 1,484
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1 · **Open PRs**: 11 · **Closed issues**: 552 · **Open issues**: 88 · **Commits**: 104227
+- **Releases**: 28 · **Merged PRs**: 1 · **Open PRs**: 11 · **Closed issues**: 552 · **Open issues**: 88 · **Commits**: 104228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 1 | 2 | 0 | 5 |
-| last60d | 2026-08-20 | 1 | 0 | 1 | 4 | 1 | 9 |
-| 90d | 2026-07-21 | 1 | 0 | 1 | 6 | 1 | 10 |
-| last180d | 2026-04-22 | 1 | 0 | 1 | 7 | 2 | 16 |
-| 360d | 2025-10-24 | 2 | 0 | 3 | 16 | 3 | 33 |
-| last720d | 2024-10-29 | 3 | 0 | 3 | 48 | 7 | 158 |
+| 30d | 2026-09-20 | 0 | 0 | 1 | 2 | 0 | 6 |
+| last60d | 2026-08-21 | 1 | 0 | 1 | 4 | 1 | 10 |
+| 90d | 2026-07-22 | 1 | 0 | 1 | 6 | 1 | 11 |
+| last180d | 2026-04-23 | 1 | 0 | 1 | 7 | 2 | 17 |
+| 360d | 2025-10-25 | 2 | 0 | 3 | 16 | 3 | 34 |
+| last720d | 2024-10-30 | 3 | 0 | 3 | 48 | 7 | 159 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for visualvm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:18:55Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:34:10Z._

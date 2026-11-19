@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,278 · **Forks**: 337 · **Open issues**: 641 · **Contributors**: 1,476
+- **Stars**: 3,278 · **Forks**: 337 · **Open issues**: 641 · **Contributors**: 1,485
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 1 | 1 |
-| last60d | 2026-09-18 | 0 | 0 | 1 | 2 | 1 | 10 |
-| 90d | 2026-08-19 | 1 | 0 | 1 | 5 | 1 | 14 |
-| last180d | 2026-05-21 | 1 | 0 | 1 | 8 | 2 | 19 |
-| 360d | 2025-11-22 | 2 | 0 | 3 | 16 | 3 | 38 |
-| last720d | 2024-11-27 | 3 | 0 | 3 | 47 | 7 | 155 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 1 | 1 |
+| last60d | 2026-09-20 | 0 | 0 | 1 | 2 | 1 | 10 |
+| 90d | 2026-08-21 | 1 | 0 | 1 | 5 | 1 | 14 |
+| last180d | 2026-05-23 | 1 | 0 | 1 | 8 | 2 | 19 |
+| 360d | 2025-11-24 | 2 | 0 | 3 | 16 | 3 | 38 |
+| last720d | 2024-11-29 | 3 | 0 | 3 | 46 | 7 | 155 |
 
 ## Release assets
 
@@ -74,6 +74,20 @@ Lowest-scoring checks:
 | [VisualVM_222.dmg](https://github.com/oracle/visualvm/releases/download/2.2.2/VisualVM_222.dmg) | 24.0 MiB | `other` |
 | [visualvm_222.zip](https://github.com/oracle/visualvm/releases/download/2.2.2/visualvm_222.zip) | 22.2 MiB | `other` |
 
+## Distribution status
+
+Reported by **55** distros on [repology.org](https://repology.org/project/visualvm). **4** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.2` | ⚠️ outdated |
+| Debian 14 | `2.2` | ⚠️ outdated |
+| Debian 13 | `2.1.10` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.2` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.1.8` | ⚠️ outdated |
+| Arch | `2.2.1` | ⚠️ outdated |
+| Nix unstable | `2.2.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for visualvm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `visualvm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +97,4 @@ Install metadata for visualvm lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:43:31Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:48:59Z._

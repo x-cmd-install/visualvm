@@ -1,17 +1,26 @@
-- repo: ubuntu_14_04
-  subrepo: trusty/universe
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: visualvm
-  binnames:
-    - visualvm
+  binname: visualvm
   visiblename: visualvm
-  version: 1.3.3
-  origversion: 1.3.3-2ubuntu1
+  version: 2.2.1
+  origversion: 2.2.1-1
   status: outdated
+  summary: Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
+  licenses:
+    - custom:GPL
+- repo: nix_stable_24_05
+  srcname: visualvm
+  visiblename: visualvm
+  version: 2.1.8
+  origversion: null
+  status: outdated
+  summary: A visual interface for viewing information about Java applications
   maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - doko@ubuntu.com
-  categories:
-    - universe/devel
+    - m@michalrus.com
+    - moaxcp@gmail.com
+  licenses:
+    - GNU General Public License v2.0 or later (with Classpath exception)
 - repo: arch
   subrepo: extra
   srcname: visualvm
@@ -109,20 +118,6 @@
     - ebourg@apache.org
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: visualvm
-  binnames:
-    - visualvm
-    - libvisualvm-jni
-  visiblename: visualvm
-  version: 1.4.2
-  origversion: 1.4.2-2
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - doko@ubuntu.com
-    - ebourg@apache.org
 - repo: deepin_25
   subrepo: community
   srcname: visualvm
@@ -278,29 +273,6 @@
   summary: Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
   licenses:
     - custom:GPL
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: visualvm
-  binname: visualvm
-  visiblename: visualvm
-  version: 2.2.1
-  origversion: 2.2.1-1
-  status: outdated
-  summary: Visual tool integrating several commandline JDK tools and lightweight profiling capabilities
-  licenses:
-    - custom:GPL
-- repo: nix_stable_24_05
-  srcname: visualvm
-  visiblename: visualvm
-  version: 2.1.8
-  origversion: null
-  status: outdated
-  summary: A visual interface for viewing information about Java applications
-  maintainers:
-    - m@michalrus.com
-    - moaxcp@gmail.com
-  licenses:
-    - GNU General Public License v2.0 or later (with Classpath exception)
 - repo: nix_stable_24_11
   srcname: visualvm
   visiblename: visualvm
@@ -338,22 +310,6 @@
   licenses:
     - GPL-2.0-or-later
     - Classpath-exception-2.0
-- repo: ubuntu_16_04
-  subrepo: xenial/universe
-  srcname: visualvm
-  binnames:
-    - visualvm
-    - libvisualvm-jni
-  visiblename: visualvm
-  version: 1.3.8
-  origversion: 1.3.8-2
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - doko@ubuntu.com
-    - ebourg@apache.org
-  categories:
-    - universe/devel
 - repo: nix_stable_26_05
   srcname: visualvm
   visiblename: visualvm
@@ -430,7 +386,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: visualvm
   binnames:
     - visualvm
@@ -445,7 +401,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: visualvm
   binnames:
     - visualvm
@@ -588,15 +544,29 @@
     - ebourg@apache.org
   categories:
     - misc
-- repo: ubuntu_18_04
-  subrepo: bionic-updates/universe
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+  visiblename: visualvm
+  version: 1.3.3
+  origversion: 1.3.3-2ubuntu1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+  categories:
+    - universe/devel
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
   srcname: visualvm
   binnames:
     - visualvm
     - libvisualvm-jni
   visiblename: visualvm
-  version: 1.4.2
-  origversion: 1.4.2-2~18.04.1
+  version: 1.3.8
+  origversion: 1.3.8-2
   status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
@@ -614,6 +584,22 @@
   version: 1.3.9
   origversion: 1.3.9-1
   status: legacy
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - doko@ubuntu.com
+    - ebourg@apache.org
+  categories:
+    - universe/devel
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/universe
+  srcname: visualvm
+  binnames:
+    - visualvm
+    - libvisualvm-jni
+  visiblename: visualvm
+  version: 1.4.2
+  origversion: 1.4.2-2~18.04.1
+  status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
     - doko@ubuntu.com
